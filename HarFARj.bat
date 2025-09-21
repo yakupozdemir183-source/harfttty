@@ -1,0 +1,3 @@
+@echo off
+echo Onestop müziği çalınıyor...
+start "" "C:\Windows\Media\onestop.mid"
